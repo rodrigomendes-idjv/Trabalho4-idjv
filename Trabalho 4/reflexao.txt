@@ -1,0 +1,13 @@
+FICHA DE TRABALHO N.º 4 — QUESTÕES DE CONSOLIDAÇÃO
+
+1. Diferença entre HTML Semântico e Não Semântico
+O HTML semântico utiliza elementos que indicam a função do conteúdo, como <header>, <main> e <article>. Isto torna o código mais organizado e fácil de compreender, tanto para quem o desenvolve como para outros programadores. Também ajuda tecnologias de apoio, como leitores de ecrã, e os motores de pesquisa a interpretar melhor a estrutura da página. Se utilizássemos apenas <div>, a estrutura funcionava, mas seria menos clara porque as divs não indicam o significado do conteúdo.
+
+2. Modelo de Caixa (Box Model)
+O Box Model é constituído por quatro partes: content (conteúdo), padding (espaçamento interior), border (borda) e margin (espaçamento exterior). A propriedade box-sizing: border-box faz com que a largura e a altura definidas para um elemento já incluam o padding e a border. Assim, é mais fácil controlar as dimensões dos elementos e organizar o layout.
+
+3. Flexbox vs. CSS Grid
+O Flexbox é mais indicado para organizar elementos numa única dimensão, ou seja, numa linha ou numa coluna. Por exemplo, pode ser utilizado para alinhar o logótipo e os links do menu de navegação. O CSS Grid é mais indicado quando é necessário organizar elementos em duas dimensões, controlando linhas e colunas ao mesmo tempo. É útil, por exemplo, para criar uma grelha de cartões ou uma galeria de projetos.
+
+4. Media Queries e Responsividade
+A meta tag viewport informa o navegador sobre a largura e a escala inicial da página em dispositivos móveis. Com width=device-width, a largura da página acompanha a largura do ecrã. Isto permite que as Media Queries sejam aplicadas de forma adequada e que o layout se adapte a telemóveis e tablets, em vez de aparecer como uma página reduzida de uma versão para computador.

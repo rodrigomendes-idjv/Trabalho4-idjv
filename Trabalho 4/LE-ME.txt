@@ -1,0 +1,11 @@
+TRABALHO 4 — LAYOUTS RESPONSIVOS
+
+1. Abra a pasta e edite os ficheiros HTML.
+2. Substitua [O TEU NOME], [A tua localidade] e [o-teu-email@exemplo.com] pelos teus dados.
+3. Substitua as imagens SVG da pasta imagens por imagens tuas, se quiseres. Mantém os nomes dos ficheiros ou atualiza os caminhos no HTML.
+4. Abra index.html no navegador e teste os três links do menu.
+5. Redimensione a janela ou use as ferramentas de programador do navegador para testar a versão móvel.
+
+O projeto inclui as três páginas pedidas, CSS externo partilhado, Flexbox, Grid, Media Query a 768px, tabela semântica, formulário com validação HTML5 e CDN do Bootstrap 5. O formulário é apenas demonstrativo e não envia dados para um servidor.
+
+Antes de entregar, confirma que personalizaste os dados e que consegues explicar as partes principais do código.
